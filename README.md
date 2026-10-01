@@ -8,15 +8,17 @@
 
 主要用于数据结构与算法练习，巩固考研、面试常考算法，持续更新刷题代码。
 
+当前已完成：**146. LRU 缓存机制** 完整实现。
+
 ## 目录结构
 
-src
-└── com
-    └── leetcode
-        ├── LeetCode_0146
-        │   ├── LRUCache.java
-        │   └── Test.java
-        └── text.java
+    src
+    └── com
+        └── leetcode
+            ├── LeetCode_0146
+            │   ├── LRUCache.java
+            │   └── Test.java
+            └── text.java
 
 ## 开发环境
 
@@ -28,7 +30,7 @@ src
 
 1. 将仓库克隆到本地
 
-git clone https://github.com/curryjt/leetcode_study.git
+    git clone https://github.com/curryjt/leetcode_study.git
 
 2. 在 IDEA 中打开项目根目录
 3. 找到对应题目的 Java 文件，直接运行测试
@@ -38,6 +40,12 @@ git clone https://github.com/curryjt/leetcode_study.git
 | 题号 | 题目名称 | 编程语言 | 备注 |
 | ---- | -------- | -------- | ---- |
 | 146 | LRU 缓存机制 | Java | 完整代码实现 |
+
+## 后续计划
+
+- 持续更新链表、树、动态规划、图等类型算法题
+- 补充代码注释，整理解题思路
+- 增加测试用例，验证代码正确性
 
 ## 关于
 
